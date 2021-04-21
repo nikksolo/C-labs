@@ -1,0 +1,57 @@
+C:\Users\deniska\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.exe
+C:\Users\deniska\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.deps.json
+C:\Users\deniska\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.json
+C:\Users\deniska\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.dev.json
+C:\Users\deniska\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.dll
+C:\Users\deniska\source\repos\Param\Param\bin\Debug\netcoreapp3.1\Param.pdb
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.csprojAssemblyReference.cache
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param_MarkupCompile.cache
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param_MarkupCompile.lref
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.g.resources
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfoInputs.cache
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfo.cs
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.csproj.CoreCompileInputs.cache
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.dll
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.pdb
+C:\Users\deniska\source\repos\Param\Param\obj\Debug\netcoreapp3.1\Param.genruntimeconfig.cache
+D:\осипов\task3\Param\Param\bin\Debug\netcoreapp3.1\Param.exe
+D:\осипов\task3\Param\Param\bin\Debug\netcoreapp3.1\Param.deps.json
+D:\осипов\task3\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.json
+D:\осипов\task3\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.dev.json
+D:\осипов\task3\Param\Param\bin\Debug\netcoreapp3.1\Param.dll
+D:\осипов\task3\Param\Param\bin\Debug\netcoreapp3.1\Param.pdb
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.csprojAssemblyReference.cache
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\App.g.cs
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param_MarkupCompile.cache
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param_MarkupCompile.lref
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.g.resources
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfoInputs.cache
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfo.cs
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.csproj.CoreCompileInputs.cache
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.dll
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.pdb
+D:\осипов\task3\Param\Param\obj\Debug\netcoreapp3.1\Param.genruntimeconfig.cache
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\bin\Debug\netcoreapp3.1\Param.exe
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\bin\Debug\netcoreapp3.1\Param.deps.json
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.json
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.dev.json
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\bin\Debug\netcoreapp3.1\Param.dll
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\bin\Debug\netcoreapp3.1\Param.pdb
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.csprojAssemblyReference.cache
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\App.g.cs
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param_MarkupCompile.cache
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param_MarkupCompile.lref
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.g.resources
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfoInputs.cache
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfo.cs
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.csproj.CoreCompileInputs.cache
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.dll
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.pdb
+D:\8 семестр - разработка\Dev_labs\lab_03\Param\Param\obj\Debug\netcoreapp3.1\Param.genruntimeconfig.cache

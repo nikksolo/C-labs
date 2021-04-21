@@ -1,0 +1,38 @@
+D:\осипов\task2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.exe
+D:\осипов\task2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.deps.json
+D:\осипов\task2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.json
+D:\осипов\task2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.dev.json
+D:\осипов\task2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.dll
+D:\осипов\task2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.pdb
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csprojAssemblyReference.cache
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\App.g.cs
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.cache
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.lref
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.g.resources
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfoInputs.cache
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfo.cs
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csproj.CoreCompileInputs.cache
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.dll
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.pdb
+D:\осипов\task2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.genruntimeconfig.cache
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.exe
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.deps.json
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.json
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.dev.json
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.dll
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.pdb
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csprojAssemblyReference.cache
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\App.g.cs
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.cache
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.lref
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.g.resources
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfoInputs.cache
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfo.cs
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csproj.CoreCompileInputs.cache
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.dll
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.pdb
+D:\8 семестр - разработка\Dev_labs\lab_02\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.genruntimeconfig.cache
